@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on an open-source project
 - 📫 How to reach me on email: harleenmonder@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have a twin sister!
+- ⚡ Fun fact: I can speak German!
 
 <!---
 harleenmonder/harleenmonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
